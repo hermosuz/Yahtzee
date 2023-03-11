@@ -1,7 +1,7 @@
 /**
 * This program plays and scores one hand of yahtzee
 * CPSC 224-01, 2023
-* HW 1
+* HW 1.
 * Proffesor Crandall
 * Manny Uzoma
 */
