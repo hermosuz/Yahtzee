@@ -33,7 +33,7 @@ public class Game {
         }
         System.out.println("Here is your sorted hand: " + hand);
         
-        // Prints scores for upper section (1-6)
+        // Prints scores for upper section (1-6)//as
         for (int i = 1; i <= 6; i++) {
             System.out.println("Score " + scorecard.scoreUpper(i, hand) + " on the " + i + " line");
         }
